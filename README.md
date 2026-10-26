@@ -2,6 +2,18 @@
 
 Aplicación nativa de barra de menús para usar un iPhone como trackpad y teclado del Mac. Swift, SwiftUI/AppKit, Network.framework y CGEvent. Sin captura de pantalla, VNC, Electron, Python, Node ni servicios externos durante el uso normal.
 
+## Galería
+
+<table>
+<tr>
+<td align="center" valign="top"><img src="docs/screenshots/01-control-remoto.png" alt="Control remoto en móvil" width="360"><br><sub>Control remoto en móvil</sub></td>
+<td align="center" valign="top"><img src="docs/screenshots/02-teclado.png" alt="Teclado táctil" width="360"><br><sub>Teclado táctil</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="docs/screenshots/03-ajustes.png" alt="Acceso a los ajustes" width="360"><br><sub>Acceso a los ajustes</sub></td>
+</tr>
+</table>
+
 ## Empezar con la aplicación compilada
 
 1. En Finder abre `build/` y arrastra **iPhone Remote.app** a **Aplicaciones**. Cierra cualquier copia abierta antes de moverla. No ejecutes dos copias a la vez.
